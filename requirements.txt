@@ -1,5 +1,6 @@
 streamlit
-numpy
-scipy
 tensorflow
 gdown
+sqlalchemy
+passlib
+bcrypt
